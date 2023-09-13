@@ -703,8 +703,8 @@ function Home() {
             </div>
             <div class="face face2">
             <div class="content">
-                <p>Fete-A Real-time video call webapp .fete powered by IEDC SNMIMT , Real-time Simple Secure Fast video calls,chat and speed.</p>
-                    <a href="https://fete.onrender.com">Check It</a>
+                <p>"Fete: Real-time video call web app powered by IEDC SNMIMT. Simple, Secure, Fast video calls, chat, and speed."</p>
+                    <a href="#">Check It</a>
             </div>
         </div>
           </div>
@@ -717,8 +717,8 @@ function Home() {
             </div>
             <div class="face face2">
             <div class="content">
-                <p>OUR APP IS BUILT ON A STATE OF THE ART SYATICAL MODEL CALLED STABLE DIFFUSTION.BY USING OUR APP,YOU BE ABLE TO ACEESS REAL-TIME DATA AND ANALYZE IT USING THE POWER OF STABLE DIFFUSTION</p>
-                    <a href="https://fete.onrender.com">Check It</a>
+                <p>"Our app harnesses the power of Stable Diffusion, a state-of-the-art statistical model, enabling real-time data access and analysis at your fingertips."</p>
+                    <a href="#">Check It</a>
             </div>
         </div>
           </div>
@@ -732,8 +732,8 @@ function Home() {
             </div>
             <div class="face face2">
             <div class="content">
-                <p>GROOVY MEDIA PLAYER IS AN ANDROID APP THATS ALLOWS USERS TO PLAY VARIOUS AUDIO AND VIDEO FILES ON THIER MOBILE PHONE,AND MANY FEATURES ARE INBUILT.</p>
-                    <a href="https://fete.onrender.com">Check It</a>
+                <p>"Groovy Media Player: Your Android app for playing a wide range of audio and video files with a host of built-in features."</p>
+                    <a href="#">Check It</a>
             </div>
         </div>
           </div>
