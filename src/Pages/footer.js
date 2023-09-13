@@ -38,7 +38,7 @@ const Footer = () => {
           <Link href="#" color="inherit">
             <LinkedIn fontSize="large" />
           </Link>
-          <Link href="#" color="inherit">
+          <Link href="https://instagram.com/iedc.snm/" color="inherit">
             <Instagram fontSize="large" />
           </Link>
           <Link href="#" color="inherit">
