@@ -58,7 +58,7 @@ useEffect(() => {
           <Route path='/' element={<Home/>} />
           <Route path="/login" element={<Login/>}/>
           <Route path="/login/staffSignUp/0/" element={<Staffsignuppage />} />
-          <Route path='/login/studentSignUp/0404/' element={<StudentSignupPages/>} />
+          <Route path='/login/studentSignUp/0404/' element={<#/>} />
           <Route path='/login/staffSignIn/1/' element={<StaffLogin/>} />
           <Route path='/login/studentSignIn/1/' element={<StudentLogin/>} />
           <Route
